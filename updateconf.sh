@@ -1,1 +1,1 @@
-wget -O /data/data/com.termux/files/usr/bin/config.json https://raw.githubusercontent.com/anhwaivo/yeahh/refs/heads/main/config.json
+cd /data/data/com.termux/files/usr/bin/ && wget -O config.json https://raw.githubusercontent.com/anhwaivo/yeahh/refs/heads/main/config.json
